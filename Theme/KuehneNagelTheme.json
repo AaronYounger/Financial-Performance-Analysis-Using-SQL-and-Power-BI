@@ -1,0 +1,29 @@
+
+{
+  "name": "Kuehne and Nagel Theme",
+  "dataColors": [
+    "#002F6C",
+    "#0072CE",
+    "#66B2FF",
+    "#003E7E",
+    "#89CFF0",
+    "#A9B7C6",
+    "#1A1A1A"
+  ],
+  "background": "#FFFFFF",
+  "foreground": "#002F6C",
+  "tableAccent": "#0072CE",
+  "visualStyles": {
+    "page": {
+      "*": {
+        "background": [
+          {
+            "color": "#E6F2FA",
+            "transparency": 0
+          }
+        ]
+      }
+    }
+  }
+}
+
