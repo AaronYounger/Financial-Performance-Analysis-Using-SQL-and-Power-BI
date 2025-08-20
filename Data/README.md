@@ -1,1 +1,5 @@
-Invalid switch - "f## Data Confidentiality Notice\n\nThe data for this project is **not included** in this repository.\n\n- The original dataset holds proprietary and confidential information.\n- This folder is only a placeholder.\n- No raw or sensitive data will be committed to this folder.\n"
+## The data for this project is not included in this repository.
+
+- The original dataset holds proprietary and confidential information.
+- This folder is only a placeholder.
+- No raw or sensitive data will be committed to this folder.
