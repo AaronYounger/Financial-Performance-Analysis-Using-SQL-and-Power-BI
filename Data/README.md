@@ -1,5 +1,1 @@
-## Data Notice
-
-DATA NOT SHOWN HERE DUE TO CONFIDENTIALITY REASONS.
-
-The original dataset is proprietary and excluded from this repository.
+Invalid switch - "f## Data Confidentiality Notice\n\nThe data for this project is **not included** in this repository.\n\n- The original dataset holds proprietary and confidential information.\n- This folder is only a placeholder.\n- No raw or sensitive data will be committed to this folder.\n"
