@@ -73,8 +73,8 @@ The last bookmark labeled "Forecast" shows the projected total LC Amount for the
 
 - **Forecasted LC Amount:** Displayed using a line graph shows the current LC Amount along with the projected five years. 
 
-[View report Images](Report%20Images)
-[Download Power BI Report](Report.pbix)
+[View report Images](Report%20Images)  
+[Download Power BI Report](Report/Report.pbix)
 
 
 ### About Me
